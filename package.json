@@ -1,0 +1,24 @@
+{
+  "name": "compressimginput",
+  "version": "1.0.0",
+  "description": "上传图片前压缩先图片，转换成base64格式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallbad/compressImgInput.git"
+  },
+  "keywords": [
+    "图片压缩",
+    "base64",
+    "前端压缩"
+  ],
+  "author": "张晓建",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smallbad/compressImgInput/issues"
+  },
+  "homepage": "https://github.com/smallbad/compressImgInput#readme"
+}
